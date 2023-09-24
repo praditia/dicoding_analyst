@@ -1,2 +1,3 @@
 # dicoding_analyst
-![Screenshot (419)](https://github.com/praditia/dicoding_analyst/assets/105288241/798f7e0b-8a85-4cea-b87c-2b7c02ac3456)
+
+![Screenshot (419)](https://github.com/praditia/dicoding_analyst/assets/105288241/dc003b37-005e-4d7d-a8bf-96a8e3d26041)
